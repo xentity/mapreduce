@@ -1,6 +1,6 @@
 2012-12-31	16:26	Anaheim	Men's Clothing	205.96	Discover
 2012-12-31	16:26	Charlotte	CDs	11.32	MasterCard
-2012-12-31	16:26	Irvine	Men's Clothing	436	Visa
+2012-12-31	16:26	Irvine	Men's Clothing	436
 2012-12-31	16:26	Columbus	Men's Clothing	9.02	Discover
 2012-12-31	16:26	Jacksonville	Children's Clothing	480.9	Amex
 2012-12-31	16:26	Milwaukee	CDs	31.27	Cash

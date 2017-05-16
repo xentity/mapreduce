@@ -34,6 +34,9 @@ for line in sys.stdin:
     # the result is a tuple with 6 elements
     data = line.strip().split("\t")
 
+    if len(data)!=6:
+        raise ValueError('A very specific bad thing happened')
+
     # store the 6 elements of the tuple in seperate variables
     date, time, item, category, sales, payment = data
 
